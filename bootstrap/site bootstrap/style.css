@@ -1,0 +1,24 @@
+.text-center img{
+    box-shadow: 2px blue;
+    border: 2px solid blue;
+    
+}
+.divisor{
+ padding-right: 300px;
+}
+#lanca{
+ padding: 40px;
+ text-align: center;
+ font-weight: 900;
+ 
+}
+.img{
+    width: 1350px;
+    height: 465px;
+    background-image:url(foto1.jpeg) ;
+    
+
+}
+.logo{
+    text-align: center;
+}
